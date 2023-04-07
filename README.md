@@ -4,4 +4,4 @@ I created a simple calander application that allows a user to save events for ea
 ![png](https://user-images.githubusercontent.com/121422214/226148112-6110ef74-227b-49d4-ae31-947dad4d2505.jpeg)
 
 
-The URL of the deployed application: https://slfdspln.github.io/ScheduleDay/
+The URL of the deployed application:https://slfdspln.github.io/day-scheduler/
