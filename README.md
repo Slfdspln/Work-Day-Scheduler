@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# <h1> align="center">Work Day Scheduler</h1>
 
 I created a simple calander application that allows a user to save events for each hour of the day by modifying starter code. 
 
