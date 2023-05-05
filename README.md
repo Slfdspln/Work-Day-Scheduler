@@ -17,7 +17,7 @@ This project utilizes HTML, CSS, JavaScript, JQuery, Bootstrap, Fontawesome.com,
 
 ## Installation
 
-Clone the repo: git clone 
+Clone the repo: git clone git@github.com:Slfdspln/day-scheduler.git
 
 Open in VS Code. If you do not have VS code you must install it.
 
